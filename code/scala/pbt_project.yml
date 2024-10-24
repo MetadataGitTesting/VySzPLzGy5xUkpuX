@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: njzzrrti.pdhxrn9y@7yxapamh.com
     createdAt: '2024-10-24 20:26:52'
     configurations:
-      pipelineConfigurations/alfred.mckenzie/Mrs__Matha_SauerHarry_Armand_BachBrooks_Reynolds_DDS/dev:
-        name: dev
-        author: null
-        createdAt: '2024-10-24 20:26:52'
       pipelineConfigurations/alfred.mckenzie/Mrs__Matha_SauerHarry_Armand_BachBrooks_Reynolds_DDS/dev2:
         name: dev2
-        author: null
-        createdAt: '2024-10-24 20:26:52'
-      pipelineConfigurations/alfred.mckenzie/Mrs__Matha_SauerHarry_Armand_BachBrooks_Reynolds_DDS/dev3:
-        name: dev3
         author: null
         createdAt: '2024-10-24 20:26:52'
     basePipeline: 351/pipelines/Mrs__Matha_SauerHarry_Armand_BachBrooks_Reynolds_DDS
